@@ -1,0 +1,77 @@
+body
+{
+    background-color:black;
+    margin-top:5px;
+    margin-left:5px;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+    font-size:13px;color:#DCE0E9;
+}
+
+table, td
+{
+    border-width:0px;
+}
+
+a
+{
+    text-decoration:none;color:#DCE0E9;
+}
+
+#artikel
+{
+    background-color:black;
+    color:#DCE0E9;
+    font-weight:bold;
+    width:100%;
+    position:absolute;bottom:0px;
+}
+
+#bild
+{
+    margin-top:15px;
+    text-align:center;
+}
+
+.about
+{
+    font-size:16px;
+    line-height:125%;
+}
+
+#beschreibung
+{
+    visibility:hidden;
+}
+
+#back
+{
+    position:absolute;bottom:10px;
+}
+
+.info td
+{
+    border-style:solid;
+    border-width:2px;
+    border-color:gray;
+    padding:15px;
+    font-size:17px;
+    line-height:150%;
+    font-weight:600;
+}
+
+.info a
+{
+    font-size:13px;
+    text-decoration:underline;
+}
+
+#email_btn {
+    padding: 12px;
+    color: white;
+    background-color: #FF7605;
+    text-decoration: none;
+}
+
+#email_btn:hover {
+    background-color: #FF5F05;
+}
